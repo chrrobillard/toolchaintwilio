@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-	<title>My First Fucking Web Site</title>
+	<title>Bluemix Twilio Demo</title>
 	<meta charset="utf8">  
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap  xxy -->
@@ -69,7 +69,7 @@
   <tr> -->
   <div class="hero-unit">
   <div \>
-  <h2 class="text-center"><em>BlueMix Twilio SMS Demo</em><h2>
+  <h2 class="text-center"><em>My First Fucking Web Site</em><h2>
   </div>
   <br/>
   
